@@ -1,0 +1,7 @@
+# An-Collabortive-App-Android-App-
+
+OVERVIEW* Plan B app focuses on the idea of providing a virtual place students can post their issues related to their final year or semester projects, assignments etc., and get help from other fellow students, teachers or any person who can provide a solution. The name Plan B is derived from our daily routines when the basic plan i.e. Plan A fails and there's no other plan is in sight. That's when Plan B comes into play where students can seek help from whole community, instead of having to approach people, one by one.
+
+Features Students can post course problems, assignment questions, bottlenecks being faced in semester and final year projects to which fellow students and teachers may provide a solution or workarounds. Senior students can help to junior in a particular course by giving tuition or any useful advice. Students can share their ideas regarding projects and find interested students / teachers / advisors to build a dynamic team. Example: Computer Science students make a team of a particular startup in IT, BBA students can share business ideas and will able to find a better group to implement without knowing any one in a university. Students can give away old expensive stationary to whomever in need. Teachers/Students can provide ideas in a particular department or section within a university.
+
+Stages of Development Level 1 - At initial I will focus on my university CS depart only. Database will be on server such MySQL through PHP Scripts and App will contain all departments.
